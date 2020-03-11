@@ -33,7 +33,7 @@ public class uploadfile extends AppCompatActivity {
 
     final static int PICK_PDF_CODE = 2342;
 
-    //these are the views
+
     TextView textViewStatus;
     EditText editTextFilename;
     ProgressBar progressBar;
